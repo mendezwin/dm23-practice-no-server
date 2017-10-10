@@ -1,1 +1,1 @@
-angular.module('noserver', [])
+console.log('Hello World');
